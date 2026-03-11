@@ -51,8 +51,6 @@ In this architecture the web server is **directly exposed to the internet**, all
 
 ### After WAF (Protected Architecture)
 
-### After WAF (Protected Architecture)
-
 ```
         Attacker
             │
